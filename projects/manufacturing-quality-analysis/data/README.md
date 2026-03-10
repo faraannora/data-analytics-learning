@@ -1,1 +1,1 @@
-##This folder contains datasets for manufacturing-quality-analysis projects
+This folder contains datasets for manufacturing-quality-analysis projects
