@@ -16,21 +16,6 @@ machine	Machine details and production lines
 downtime	Machine downtime records
 Database Schema
 
-Tables used in the analysis:
-machine
-   │
-   │ machine_id
-   ▼
-production
-   │
-   │ production_id
-   ▼
-defect
-
-machine
-   │
-   ▼
-downtime
 
 ##Analysis Performed
 # 1 Production Trend
