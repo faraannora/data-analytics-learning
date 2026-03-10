@@ -47,13 +47,13 @@ This metric evaluates production efficiency.
 # 5 Downtime Analysis
 Analyzed machine downtime duration to understand operational disruptions.
 
-# Tools Used
+# 6 Tools Used
 PostgreSQL
 SQL
 DBeaver
 
 
-# Key Insights
+# 7 Key Insights
 Example insights from the analysis:
 Machine M13 produced the highest output.
 Product P03 showed the highest defect rate.
